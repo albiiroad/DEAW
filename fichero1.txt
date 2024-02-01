@@ -1,2 +1,3 @@
 fichero 1 
-Adios
+Hola y adiós
+
